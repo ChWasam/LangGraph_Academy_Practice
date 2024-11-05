@@ -1,4 +1,4 @@
-#!/Users/wasamchaudhry/Study/LangGraph/langchain-academy-main/lc-academy-env/bin/python3
+#!/Users/wasamchaudhry/Study/LangGraph/langchain-academy-main/lc-academy-env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
